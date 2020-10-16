@@ -10,7 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## The Team
 
-### Tamara Pico <img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="50"/> 
+<img src="HudsonGazettephoto_website2.jpg" alt="Tamara Pico photo" width="70"/> 
+### Tamara Pico 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
